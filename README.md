@@ -73,6 +73,53 @@ Each week, I will upload the solutions to the assigned exercises, covering a ran
 
 ---
 
+## 📘 Week 3
+
+### 🟢 Spring Core and Maven
+
+#### Exercise 1: Configuring a Basic Spring Application
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week3/Spring%20Core%20Maven/Exercise%201%20Configuring%20a%20Basic%20Spring%20Application/src/main/java/com/library/repository)
+
+#### Exercise 2: Implementing Dependency Injection
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week3/Spring%20Core%20Maven/Exercise%202%20Implementing%20Dependency%20Injection/src/main/java/com/library/repository)
+
+#### Exercise 4: Creating and Configuring a Maven Project
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week3/Spring%20Core%20Maven/Exercise%204%20Creating%20and%20Configuring%20a%20Maven%20Project)
+
+---
+
+### 🟢 Spring Data JPA with Spring Boot and Hibernate
+
+#### Spring Data JPA - Quick Example
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week3/Spring%20data_jpa_handson/Spring%20Data%20Jpa-Quick%20Example)
+- **Output:**
+  ![Spring Data JPA Example Output](Week3/Spring%20data_jpa_handson/Spring%20Data%20Jpa-Quick%20Example/spring.png)
+
+#### Difference between JPA, Hibernate and Spring Data JPA
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/blob/main/Week3/Spring%20data_jpa_handson/JPA_Hibernate_SpringDataJPA_Comparison.docx)
+- **Output:**
+  ![JPA vs Hibernate Output](Week3/Spring%20data_jpa_handson/spring%20data%20jpa%20output.png)
+
+  ![JPA vs Hibernate Output](Week3/Spring%20data_jpa_handson/spring%20data%20jpa%20output%20(2).png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
