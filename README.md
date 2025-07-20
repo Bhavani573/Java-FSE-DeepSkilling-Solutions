@@ -103,7 +103,34 @@ Each week, I will upload the solutions to the assigned exercises, covering a ran
   ![JPA vs Hibernate Output](Week3/Spring%20data_jpa_handson/spring%20data%20jpa%20output%20(2).png)
 
 
+## 📘 Week 4
 
+### 🟢 Spring REST using Spring Boot 3
+
+#### Exercise 1: Create a Spring Web Project using Maven  
+#### Exercise 2: Load Country from Spring Configuration XML  
+#### Exercise 3: Hello World RESTful Web Service  
+#### Exercise 4: REST - Country Web Service  
+#### Exercise 5: REST - Get country based on country code  
+#### Exercise 6: Create authentication service that returns JWT  
+
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week4)
+
+---
+
+## 📘 Week 5
+
+### 🟢 Microservices with Spring Boot 3 and Spring Cloud
+
+#### Exercise 1: Creating Microservices for Account and Loan  
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week5)  
+- **Output:**  
+
+### Account
+  ![Account Microservice Output](./Week5/OutputSS/1_account.png)  
+
+  ### Loan
+  ![Loan Microservice Output](./Week5/OutputSS/2_loan.png)
 
 
 
