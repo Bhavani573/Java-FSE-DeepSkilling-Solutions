@@ -141,7 +141,7 @@ Each week, I will upload the solutions to the assigned exercises, covering a ran
 - [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week6)  
 - **Output:**  
 
-  [ myfirstreact Output](.Week6/Outputs/1.png)  
+  [ myfirstreact Output](Week6/Outputs/1.png)  
  
 #### Exercise 2:studentapp
 - [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week6)  
