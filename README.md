@@ -133,6 +133,41 @@ Each week, I will upload the solutions to the assigned exercises, covering a ran
   ![Loan Microservice Output](./Week5/OutputSS/2_loan.png)
 
 
+## 📘 Week 6
+
+### 🟢 Reactjs-HQL
+
+#### Exercise 1:myfirstreact
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week6)  
+- **Output:**  
+
+  [ myfirstreact Output](.Week6/Outputs/1.png)  
+ 
+#### Exercise 2:studentapp
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week6)  
+- **Output:**  
+
+  [ studentapp output](Week6/Outputs/2.png)
+
+
+#### Exercise 3:scorecaluculatorapp
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week6)  
+- **Output:**  
+
+  [ scorecaluculatorapp output](Week6/Outputs/3.png)
+
+  #### Exercise 4:bloggapp
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week6)  
+- **Output:**  
+
+  [ bloggapp output](Week6/Outputs/4.png)
+
+  #### Exercise 5:cohortdshboard
+- [Solution Link](https://github.com/Bhavani573/Java-FSE-DeepSkilling-Solutions/tree/main/Week6)  
+- **Output:**  
+
+  [ cohortdshboard output](Week6/Outputs/5.png)
+
 
 
 
